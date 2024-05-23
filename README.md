@@ -1,4 +1,4 @@
-# PROJECTS developed in Masters Program (2022-2023)
+# PROJECTS developed in Masters Program (2023-2024)
 
 1. Music Genre Classification using Transfer Learning on Spectogram
     
@@ -8,6 +8,8 @@ Frequency Cepstral Coefficients, STFT (Short Time Fourier Transforms), Spectrogr
 into images and then attempt to perform the classification task initially using a
 baseline CNN model and then using pre-trained models to gauge any performance
 improvement with significant hyperparameter tuning using baysean optimisation.
+
+2. Explainability methods for ECG Analysis ( Code will be uploaded after publication )
 
 
 
