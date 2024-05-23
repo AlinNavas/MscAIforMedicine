@@ -7,7 +7,7 @@ genre classes. We first use several preprocessing steps like s like Mel Spectrog
 Frequency Cepstral Coefficients, STFT (Short Time Fourier Transforms), Spectrogram to convert the audio files
 into images and then attempt to perform the classification task initially using a
 baseline CNN model and then using pre-trained models to gauge any performance
-improvement with significant hyperparameter tuning using baysean optimisation.
+improvement with significant hyperparameter tuning using baysean optimisation on SONIC HPC
 
 2. Comparative Analysis of Clinical Validity of ECG Explainability Methods Across Diverse Neural Network Architectures ( Code will be uploaded after publication )
 
